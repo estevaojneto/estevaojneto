@@ -16,7 +16,7 @@ _Completed/Semi-active projects_
 
 _Archived/inactive/outdated projects_
 
-- [Old CompSci studies](https://github.com/estevaojneto/ITSME)
+- [CompSci-related study material (incomplete)](https://github.com/estevaojneto/ITSME)
 - [Test for a WordPress agency (early 2020)](https://github.com/estevaojneto/wordpress_calendar)
 - [Test for a WordPress agency (late 2021/pushed early 2022)](https://github.com/estevaojneto/userlist-plugin)
 - [Course on NodeJS/ReactJS (late 2020)](https://github.com/estevaojneto/be-the-hero-sample)
