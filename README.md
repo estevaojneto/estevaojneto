@@ -54,7 +54,9 @@ _Archived/inactive/outdated projects_
 - Born: 1995;
 - Pronouns: he/him;
 - Coffee: black, no sugar;
-- Random facts about me:
+- Random facts about me (in other words: things you will probably want to know about me at some point):
     - Married for 10 years in 2023;
-    - Was living in Manaus during the COVID health crisis;
+    - Lived in Manaus from 2015-2021;
+    - Has been considered a good Harry Styles doppelganger a few years back;
+    - Had fear of flying until almost adult age;
     - Learning 日本語 (Japanese).
