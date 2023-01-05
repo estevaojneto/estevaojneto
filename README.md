@@ -48,9 +48,13 @@ _Archived/inactive/outdated projects_
 
 ## A bit about myself:
 
-- Degree: Bsc. Computer Science, post-grad to be decided soon (mid 2023)
-- Nationality: Brazilian
-- Living in: Curitiba, since mid-2021
-- Born: 1995.
-- Pronouns: he/him
-- Coffee: black, no sugar
+- Degree: Bsc. Computer Science, post-grad to be decided soon (mid 2023);
+- Nationality: Brazilian;
+- Living in: Curitiba, since mid-2021;
+- Born: 1995;
+- Pronouns: he/him;
+- Coffee: black, no sugar;
+- Random facts about me:
+    - Married for 10 years in 2023;
+    - Was living in Manaus during the COVID health crisis;
+    - Learning 日本語 (Japanese).
