@@ -4,6 +4,7 @@ Welcome to my Github profile! I hope you will find the projects I am working on 
 As a programmer I would describe myself as a full-stack (backend-leaning) Web Developer with a strong background in WordPress, and with aspirations in other areas of tech - game development in particular.
 
 For my half-personal-half-professional blog, you can check it here:  [0395.ch](https://0395.ch)
+
 My LinkedIn is available [here](https://www.linkedin.com/in/estev%C3%A3o-n-456aa91a9/).
 
 ## My Projects
