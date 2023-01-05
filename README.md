@@ -1,12 +1,13 @@
 # Hello! 👋
 
-Welcome to my Github profile! I hope this will help clarify a bit about myself, whether you are a recruiter, a friend or just curious. 
+Welcome to my Github profile! I hope you will find the projects I am working on interesting, whether you are a recruiter, a friend or just curious.
+For my half-personal-half-professional blog, you can check it here:  [0395.ch](https://0395.ch)
 
 ## My Projects
 
 _Active projects_
 
-- [BlogDynamic: WordPress theme for my blog](https://github.com/estevaojneto/blogdynamic) (blog link [here](https://0395.ch)!)
+- [BlogDynamic: WordPress theme for my blog](https://github.com/estevaojneto/blogdynamic)
 - [BatRatCat: PHP Exercise of Design Patterns](https://github.com/estevaojneto/PHP-BatRatCat)
 
 _Completed/Semi-active projects_
