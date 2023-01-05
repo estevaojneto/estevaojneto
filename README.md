@@ -5,7 +5,7 @@ As a programmer I would describe myself as a full-stack (backend-leaning) Web De
 
 For my half-personal-half-professional blog, you can check it here:  [0395.ch](https://0395.ch)
 
-My LinkedIn is available [here](https://www.linkedin.com/in/estev%C3%A3o-n-456aa91a9/).
+My LinkedIn is available [here](https://www.linkedin.com/in/estev%C3%A3o-n-456aa91a9/). I also have a github.io page here: - [estevaojneto.github.io](estevaojneto.github.io) -> this one is somewhat out of date, but updating it is on my bucket list :)
 
 ## My Projects
 
