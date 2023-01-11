@@ -22,7 +22,7 @@ _Archived/inactive/outdated projects_
 
 - [CompSci-related study material (incomplete)](https://github.com/estevaojneto/ITSME)
 - [Test for a WordPress agency (early 2020)](https://github.com/estevaojneto/wordpress_calendar)
-- [Test for a WordPress agency (late 2021/pushed early 2022)](https://github.com/estevaojneto/userlist-plugin)
+- ~Test for a WordPress agency (late 2021/pushed early 2022)~ Removed under request.
 - [Course I took on NodeJS/ReactJS (late 2020; backend not fully functional, untested ever since)](https://github.com/estevaojneto/be-the-hero-sample)
 
 ## Technologies I work with
