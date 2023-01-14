@@ -11,7 +11,7 @@ My LinkedIn is available [here](https://www.linkedin.com/in/estev%C3%A3o-n-456aa
 
 _Active projects_
 
-- [BlogDynamic: WordPress theme for my blog, using React and (almost) headless WP](https://github.com/estevaojneto/blogdynamic)
+- [BlogDynamic: WordPress theme for my blog, including a branch using ReactJS for the frontend](https://github.com/estevaojneto/blogdynamic)
 - [BatRatCat: PHP Exercise of Design Patterns](https://github.com/estevaojneto/PHP-BatRatCat)
 
 _Completed/Semi-active projects_
