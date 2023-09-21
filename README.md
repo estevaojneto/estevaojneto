@@ -5,7 +5,9 @@ As a programmer I would describe myself as a full-stack (backend-leaning) Web De
 
 For my half-personal-half-professional blog, you can check it here:  [0395.ch](https://0395.ch)
 
-My LinkedIn is available [here](https://www.linkedin.com/in/estev%C3%A3o-n-456aa91a9/). I also have a github.io page here: - [estevaojneto.github.io](estevaojneto.github.io) -> this one is somewhat out of date, but updating it is on my bucket list :)
+My LinkedIn is available [here](https://www.linkedin.com/in/estev%C3%A3o-n-456aa91a9/).
+
+I'm always open to freelance or contractor opportunities so by all means reach me out if you need something done fast & right!
 
 ## My Projects
 
@@ -25,23 +27,3 @@ _Archived/inactive/outdated projects_
 - [Test for a WordPress agency (early 2020)](https://github.com/estevaojneto/wordpress_calendar)
 - ~Test for a WordPress agency (late 2021/pushed early 2022)~ Removed under request.
 - [Course I took on NodeJS/ReactJS (late 2020; backend not fully functional, untested ever since)](https://github.com/estevaojneto/be-the-hero-sample)
-
-## Technologies I work with
-
-### Backend
-
-- PHP: WordPress, Laravel, 'raw' PHP (have experience in standalone PHP code).
-- C#: .NET, Unity.
-- Backend JS: NodeJS (at a Junior level).
-- C/C++
-
-### Frontend
-
-- HTML/CSS
-- JS: ReactJS.
-
-## Learning right now
-
-- *Unity*: one of the most well-known game engines out there.
-- *Unreal Engine*: widely considered as Unity's great competitor.
-- *Life*
