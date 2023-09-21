@@ -13,8 +13,8 @@ I'm always open to freelance or contractor opportunities so by all means reach m
 
 _Active projects_
 
-- [ShortRest: An experimental WordPress plugin which allows fetching info from an API endpoint and use it however you want without any coding](https://github.com/estevaojneto/wp-shortrest)
-- [BlogDynamic: WordPress theme for my blog, including a branch using ReactJS for the frontend](https://github.com/estevaojneto/blogdynamic)
+- [WordPress Plugin - ShortRest: An experimental WordPress plugin which allows fetching info from an API endpoint and use it however you want without any coding](https://github.com/estevaojneto/wp-shortrest)
+- [WordPress Theme - BlogDynamic: WordPress theme for my blog, including a branch using ReactJS for the frontend](https://github.com/estevaojneto/blogdynamic)
 
 _Completed/Semi-active projects_
 (as in: stuff I no longer work actively in, but still use/update it now and then)
