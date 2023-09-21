@@ -11,12 +11,13 @@ My LinkedIn is available [here](https://www.linkedin.com/in/estev%C3%A3o-n-456aa
 
 _Active projects_
 
+- [ShortRest: An experimental WordPress plugin which allows fetching info from an API endpoint and use it however you want without any coding](https://github.com/estevaojneto/wp-shortrest)
 - [BlogDynamic: WordPress theme for my blog, including a branch using ReactJS for the frontend](https://github.com/estevaojneto/blogdynamic)
-- [BatRatCat: PHP Exercise of Design Patterns](https://github.com/estevaojneto/PHP-BatRatCat)
 
 _Completed/Semi-active projects_
-(as in: stuff I no longer work actively in, but still use it now and then)
+(as in: stuff I no longer work actively in, but still use/update it now and then)
 - [Somewhat-old Python script for checking repeated files within a folder](https://github.com/estevaojneto/DuplicateFileCheck)
+- [BatRatCat: PHP Exercise of Design Patterns](https://github.com/estevaojneto/PHP-BatRatCat)
 
 _Archived/inactive/outdated projects_
 
