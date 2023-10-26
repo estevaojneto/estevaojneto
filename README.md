@@ -21,7 +21,7 @@ _Completed/Semi-active projects_
 - [Somewhat-old Python script for checking repeated files within a folder](https://github.com/estevaojneto/DuplicateFileCheck)
 - [BatRatCat: PHP Exercise of Design Patterns](https://github.com/estevaojneto/PHP-BatRatCat)
 
-_Archived/inactive/outdated projects_
+_Dormant projects_
 
 - [CompSci-related study material (incomplete)](https://github.com/estevaojneto/ITSME)
 - [Course I took on NodeJS/ReactJS (late 2020; backend not fully functional, & untested ever since)](https://github.com/estevaojneto/be-the-hero-sample)
