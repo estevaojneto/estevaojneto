@@ -1,13 +1,12 @@
-# Hello! 👋
+Welcome to my GitHub profile. I invite you to explore the projects I’ve been working on. Whether you're a recruiter, a friend, or simply someone with an interest in technology, I hope you find these projects engaging and informative.
 
-Welcome to my Github profile! I hope you will find the projects I am working on interesting, whether you are a recruiter, a friend or just curious.
-As a programmer I would describe myself as a full-stack (backend-leaning) Web Developer with a strong background in WordPress, and with aspirations in other areas of tech - game development in particular.
+I am a full-stack web developer with a strong foundation in WordPress and a growing interest in other tech fields, including game development.
 
-For my half-personal-half-professional blog, you can check it here:  [0395.ch](https://0395.ch)
+For insights into my professional journey as well as personal reflections, please visit my blog at [0395.ch](0395.ch).
 
-My LinkedIn is available [here](https://www.linkedin.com/in/estevaojneto/).
+You can also connect with me [on LinkedIn here](linkedin.com/in/estevaojneto).
 
-I'm always open to freelance or contractor opportunities so by all means reach me out if you need something done fast & right!
+If you're seeking someone who delivers quality work efficiently, I am open to freelance or contract opportunities. Feel free to reach out to me if you have projects or challenges where you need expert assistance.
 
 ## Personal Projects
 
@@ -17,11 +16,10 @@ _Active projects_
 - [WordPress Theme - BlogDynamic: WordPress theme for my blog, including an experimental branch using ReactJS for the frontend](https://github.com/estevaojneto/blogdynamic)
 - [BatRatCat: PHP Exercise of Design Patterns](https://github.com/estevaojneto/PHP-BatRatCat)
 
-_Completed/Semi-active projects_
+_Semi-active projects_
 (as in: stuff I no longer work actively in, but still use/update it now and then)
 - [Very handy interactive Python script for checking repeated files within a folder](https://github.com/estevaojneto/DuplicateFileCheck)
 
-_Dormant projects_
+_Completed/Dormant projects_
 
-- [CompSci-related study material (incomplete)](https://github.com/estevaojneto/ITSME)
 - [Course I took on NodeJS/ReactJS (late 2020; backend not fully functional, & untested ever since)](https://github.com/estevaojneto/be-the-hero-sample)
