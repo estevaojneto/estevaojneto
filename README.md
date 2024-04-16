@@ -1,13 +1,5 @@
 Welcome to my GitHub profile. I invite you to explore the projects I’ve been working on. Whether you're a recruiter, a friend, or simply someone with an interest in technology, I hope you find these projects engaging and informative.
 
-I am a full-stack web developer with a strong foundation in WordPress and a growing interest in other tech fields, including game development.
-
-For insights into my professional journey as well as personal reflections, please visit my blog at [0395.ch](0395.ch).
-
-You can also connect with me [on LinkedIn here](https://linkedin.com/in/estevaojneto).
-
-If you're seeking someone who delivers quality work efficiently, I am open to freelance or contract opportunities. Feel free to reach out to me if you have projects or challenges where you need expert assistance.
-
 ## Projects Showcase
 
 _WordPress & PHP projects_
