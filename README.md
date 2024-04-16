@@ -12,8 +12,8 @@ If you're seeking someone who delivers quality work efficiently, I am open to fr
 
 _WordPress & PHP projects_
 
-- [WordPress Plugin - ShortRest: An experimental WordPress plugin which allows fetching info from an API endpoint and use it however you want without any coding](https://github.com/estevaojneto/wp-shortrest)
-- [WordPress Theme - BlogDynamic: WordPress theme for my blog, including an experimental branch using ReactJS for the frontend](https://github.com/estevaojneto/blogdynamic)
+- [WordPress Plugin - ShortRest: An experimental/WIP WordPress plugin which allows fetching info from an API endpoint and use it however you want without any coding](https://github.com/estevaojneto/wp-shortrest)
+- [WordPress Custom Theme - BlogDynamic: Completely custom WP theme for my blog. Built from scratch, no page builder/Elementor/etc](https://github.com/estevaojneto/blogdynamic)
 - [WordPress Plugin - Events plugin from 2020](https://github.com/estevaojneto/wordpress_calendar)
 - [PHP: Exercise of Design Patterns](https://github.com/estevaojneto/PHP-BatRatCat)
 
