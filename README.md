@@ -4,7 +4,7 @@ I am a full-stack web developer with a strong foundation in WordPress and a grow
 
 For insights into my professional journey as well as personal reflections, please visit my blog at [0395.ch](0395.ch).
 
-You can also connect with me [on LinkedIn here](linkedin.com/in/estevaojneto).
+You can also connect with me [on LinkedIn here](https://linkedin.com/in/estevaojneto).
 
 If you're seeking someone who delivers quality work efficiently, I am open to freelance or contract opportunities. Feel free to reach out to me if you have projects or challenges where you need expert assistance.
 
