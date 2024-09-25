@@ -5,17 +5,17 @@ I invite you to explore the projects I’ve been working on. Whether you're a re
 ## Projects Showcase
 
 ### WordPress & PHP Projects
-- [PHP: Guide to Object-Oriented Programming (Design Patterns)](https://github.com/estevaojneto/PHP-BatRatCat)  
-  A comprehensive guide to object-oriented programming and design patterns in PHP, demonstrating the key principles of clean, scalable code. It uses the overlapping characteristics of three animals (bat, cat and rat) to explain aspects of OOP.
+- [PHP: Guide to Object-Oriented Programming (Design Patterns)](https://github.com/estevaojneto/PHP-BatRatCat)
+  A comprehensive guide to object-oriented programming and design patterns in PHP, demonstrating the key principles of clean, scalable code. It uses the overlapping characteristics of three animals (bat, cat and rat) to explain aspects of OOP. (Skills showcased: Object-Oriented Programming, PHP, documentation)
 
 - [PHP/WordPress Theme - BlogDynamic](https://github.com/estevaojneto/blogdynamic)  
-  A completely custom WordPress theme for my personal blog, built from scratch without using any page builders or tools like Elementor. Built entirely in PHP, HTML, CSS and JS. Additionally contains an API where post content can be fetched from.
+  A completely custom WordPress theme for my personal blog, built from scratch without using any page builders or tools like Elementor. Additionally contains an API where post content can be fetched from. (Skills showcased: WordPress theme creation, PHP, HTML, CSS and vanilla JS, creating APIs)
 
 - [PHP/WordPress Plugin - ShortRest](https://github.com/estevaojneto/wp-shortrest)  
-  An experimental custom WordPress plugin for fetching data from an API endpoint. It allows users to easily integrate external data into their site without writing any code.
+  An experimental custom WordPress plugin for fetching data from an API endpoint. It allows users to easily integrate external data into their site without writing any code. (Skills showcased: WordPress plugin creation, consuming APIs, PHP)
 
 - [PHP/WordPress Plugin - Tag Replacement via AJAX](https://github.com/estevaojneto/wp-simple-tag-replacement-ajax)  
-  A dynamic plugin that replaces tags using AJAX for a more seamless user experience.
+  A dynamic plugin that replaces tags using AJAX for a more seamless user experience. (Skills showcased: WordPress plugin creation, PHP)
 
 ### Semi-active Projects
 Projects that I maintain and update occasionally, but don't work on actively:
@@ -23,7 +23,7 @@ Projects that I maintain and update occasionally, but don't work on actively:
 - [Python: File Duplication Checker Script](https://github.com/estevaojneto/DuplicateFileCheck)  
   A handy interactive Python script designed to check for repeated files within a folder, helping users manage storage efficiently.
 
-### Archived Projects
+### Completed & Archived Projects
 Projects which have been completed and are kept for historical purposes:
 
 - [PHP/WordPress Plugin - Events Plugin (2020)](https://github.com/estevaojneto/wordpress_calendar)  
