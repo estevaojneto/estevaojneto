@@ -15,10 +15,10 @@ I invite you to explore the projects I’ve been working on. Whether you're a re
   An experimental custom WordPress plugin for fetching data from an API endpoint. It allows users to easily integrate external data into their site without writing any code. (Skills showcased: WordPress plugin creation, consuming APIs, PHP)
 
 - [PHP/WordPress Plugin - Tag Replacement via AJAX](https://github.com/estevaojneto/wp-simple-tag-replacement-ajax)  
-  A dynamic plugin that replaces tags using AJAX for a more seamless user experience. (Skills showcased: WordPress plugin creation, PHP)
+  A dynamic plugin that replaces tags using AJAX for a more seamless user experience. (Skills showcased: WordPress plugin creation, AJAX, PHP)
 
 ### Semi-active Projects
-Projects that I maintain and update occasionally, but don't work on actively:
+Projects that I use every now and then in my workflow, and maintain/update occasionally:
 
 - [Python: File Duplication Checker Script](https://github.com/estevaojneto/DuplicateFileCheck)  
   A handy interactive Python script designed to check for repeated files within a folder, helping users manage storage efficiently.
