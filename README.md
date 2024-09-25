@@ -20,7 +20,7 @@ I invite you to explore the projects I’ve been working on. Whether you're a re
 ### Semi-active Projects
 Projects that I maintain and update occasionally, but don't work on actively:
 
-- [Python: File Duplication Checker Script]([link](https://github.com/estevaojneto/DuplicateFileCheck))  
+- [Python: File Duplication Checker Script](https://github.com/estevaojneto/DuplicateFileCheck)  
   A handy interactive Python script designed to check for repeated files within a folder, helping users manage storage efficiently.
 
 ### Archived Projects
