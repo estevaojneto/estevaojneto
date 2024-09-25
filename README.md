@@ -1,16 +1,33 @@
-Welcome to my GitHub profile. I invite you to explore the projects I’ve been working on. Whether you're a recruiter, a friend, or simply someone with an interest in technology, I hope you find these projects engaging and informative.
+# Hey visitor!
+
+I invite you to explore the projects I’ve been working on. Whether you're a recruiter, developer, or simply someone with an interest in technology, I hope you find these projects engaging and informative.
 
 ## Projects Showcase
 
-_WordPress & PHP projects_
+### WordPress & PHP Projects
+- [PHP: Guide to Object-Oriented Programming (Design Patterns)](https://github.com/estevaojneto/PHP-BatRatCat)  
+  A comprehensive guide to object-oriented programming and design patterns in PHP, demonstrating the key principles of clean, scalable code. It uses the overlapping characteristics of three animals (bat, cat and rat) to explain aspects of OOP.
 
-- [PHP: Guide of Object-Oriented Programming (Design Patterns)](https://github.com/estevaojneto/PHP-BatRatCat)
-- [PHP/WordPress Theme - Custom - BlogDynamic: Completely custom WP theme for my blog. Built from scratch, no page builder/Elementor/etc](https://github.com/estevaojneto/blogdynamic)
-- [PHP/WordPress Plugin - Custom - ShortRest: An experimental custom plugin for WordPress which allows fetching info from an API endpoint and use it however you want without any coding](https://github.com/estevaojneto/wp-shortrest)
-- [PHP/WordPress Plugin - Custom - Tag Replacement Plugin via AJAX](https://github.com/estevaojneto/wp-simple-tag-replacement-ajax)
-- [PHP/WordPress Plugin - Custom - Events plugin from 2020](https://github.com/estevaojneto/wordpress_calendar)
-- [PHP/WordPress Plugin - Custom - Userlist (test plugin)](https://github.com/estevaojneto/userlist-plugin)
+- [PHP/WordPress Theme - BlogDynamic](https://github.com/estevaojneto/blogdynamic)  
+  A completely custom WordPress theme for my personal blog, built from scratch without using any page builders or tools like Elementor. Built entirely in PHP, HTML, CSS and JS. Additionally contains an API where post content can be fetched from.
 
-_Semi-active projects_
-(as in: stuff I no longer work actively in, but still use/update it now and then)
-- [Python: Very handy interactive Python script for checking repeated files within a folder](https://github.com/estevaojneto/DuplicateFileCheck)
+- [PHP/WordPress Plugin - ShortRest](https://github.com/estevaojneto/wp-shortrest)  
+  An experimental custom WordPress plugin for fetching data from an API endpoint. It allows users to easily integrate external data into their site without writing any code.
+
+- [PHP/WordPress Plugin - Tag Replacement via AJAX](https://github.com/estevaojneto/wp-simple-tag-replacement-ajax)  
+  A dynamic plugin that replaces tags using AJAX for a more seamless user experience.
+
+### Semi-active Projects
+Projects that I maintain and update occasionally, but don't work on actively:
+
+- [Python: File Duplication Checker Script](link)  
+  A handy interactive Python script designed to check for repeated files within a folder, helping users manage storage efficiently.
+
+### Archived Projects
+Projects which have been completed and are kept for historical purposes:
+
+- [PHP/WordPress Plugin - Events Plugin (2020)](https://github.com/estevaojneto/wordpress_calendar)  
+  A custom events management plugin built in 2020, allowing users to create, manage, and display events efficiently.
+
+- [PHP/WordPress Plugin - UserList (Test Plugin)](https://github.com/estevaojneto/userlist-plugin)  
+  A test plugin that allows you to dynamically list and manage users within WordPress. Still useful in testing environments.
