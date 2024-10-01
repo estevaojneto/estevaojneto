@@ -6,7 +6,7 @@ I invite you to explore the projects I’ve been working on. Whether you're a re
 
 ### WordPress & PHP Projects
 - [PHP: Guide to Object-Oriented Programming (Design Patterns)](https://github.com/estevaojneto/PHP-BatRatCat)
-  A comprehensive guide to object-oriented programming and design patterns in PHP, demonstrating the key principles of clean, scalable code. It uses the overlapping characteristics of three animals (bat, cat and rat) to explain aspects of OOP. (Skills showcased: Object-Oriented Programming, PHP, documentation)
+  A comprehensive guide to object-oriented programming and design patterns in PHP, demonstrating the key principles of clean, scalable code. It uses the overlapping characteristics of three animals (bat, cat and rat) to explain aspects of OOP. (Skills showcased: OOP/Object-Oriented Programming, PHP, documentation)
 
 - [PHP/WordPress Theme - BlogDynamic](https://github.com/estevaojneto/blogdynamic)  
   A completely custom WordPress theme for my personal blog, built from scratch without using any page builders or tools like Elementor. Additionally contains an API where post content can be fetched from. (Skills showcased: WordPress theme creation, PHP, HTML, CSS and vanilla JS, creating APIs)
