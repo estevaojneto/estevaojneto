@@ -2,8 +2,6 @@
 
 I invite you to explore the projects I’ve been working on. Whether you're a recruiter, developer, or simply someone with an interest in technology, I hope you find these projects engaging and informative.
 
-My Upwork can be found [here](https://www.upwork.com/freelancers/~016a413ff51cf8af1c?viewMode=1). Let's talk!
-
 ## Projects Showcase
 
 ### WordPress & PHP Projects
