@@ -17,17 +17,18 @@ I invite you to explore the projects I’ve been working on. Whether you're a re
 - [PHP/WordPress Plugin - Tag Replacement via AJAX](https://github.com/estevaojneto/wp-simple-tag-replacement-ajax)  
   A dynamic plugin that replaces tags using AJAX for a more seamless user experience. (Skills showcased: WordPress plugin creation, AJAX, PHP)
 
-### Semi-active Projects
-Projects that I use every now and then in my workflow, and maintain/update occasionally:
+### Python projects
+
+- [LLM Study: Cleaning Non-Standardized Data using LLM](https://github.com/estevaojneto/prompt-crafting-sample)  
+  A study using Python and OpenAI's ChatGPT API which demonstrates how it could be used in theory to clean messy datasets, allowing for data to be warehoused and reported on. (Skills showcased: Python, ChatGPT, prompt engineering)
 
 - [Python: File Duplication Checker Script](https://github.com/estevaojneto/DuplicateFileCheck)  
   A handy interactive Python script designed to check for repeated files within a folder, helping users manage storage efficiently.
 
 ### Completed & Archived Projects
-Projects which have been completed and are kept for historical purposes:
 
 - [PHP/WordPress Plugin - Events Plugin (2020)](https://github.com/estevaojneto/wordpress_calendar)  
   A custom events management plugin built in 2020, allowing users to create, manage, and display events efficiently.
 
 - [PHP/WordPress Plugin - UserList (Test Plugin)](https://github.com/estevaojneto/userlist-plugin)  
-  A test plugin that allows you to dynamically list and manage users within WordPress. Still useful in testing environments.
+  A test plugin that allows you to dynamically list and manage users within WordPress.
