@@ -22,13 +22,13 @@ I invite you to explore the projects I’ve been working on. Whether you're a re
 - [LLM Study: Cleaning Non-Standardized Data using LLM](https://github.com/estevaojneto/prompt-crafting-sample)  
   A study using Python and OpenAI's ChatGPT API which demonstrates how it could be used in theory to clean messy datasets, allowing for data to be warehoused and reported on. (Skills showcased: Python, ChatGPT, prompt engineering)
 
-- [Python: File Duplication Checker Script](https://github.com/estevaojneto/DuplicateFileCheck)  
-  A handy interactive Python script designed to check for repeated files within a folder, helping users manage storage efficiently.
-
 ### Completed & Archived Projects
+
+- [Python: File Duplication Checker Script (2018)](https://github.com/estevaojneto/DuplicateFileCheck)  
+  A handy interactive Python script designed to check for repeated files within a folder, helping users manage storage efficiently.
 
 - [PHP/WordPress Plugin - Events Plugin (2020)](https://github.com/estevaojneto/wordpress_calendar)  
   A custom events management plugin built in 2020, allowing users to create, manage, and display events efficiently.
 
-- [PHP/WordPress Plugin - UserList (Test Plugin)](https://github.com/estevaojneto/userlist-plugin)  
-  A test plugin that allows you to dynamically list and manage users within WordPress.
+- [PHP/WordPress Plugin - UserList (2022)](https://github.com/estevaojneto/userlist-plugin)  
+  A test plugin that allows you to dynamically list and manage users within WordPress. Built as a coding test.
